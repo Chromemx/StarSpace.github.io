@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Chromemx/hozi_granary
+  repo: https://github.com/Chromemx/StarSpace.github.io
   branch: main
